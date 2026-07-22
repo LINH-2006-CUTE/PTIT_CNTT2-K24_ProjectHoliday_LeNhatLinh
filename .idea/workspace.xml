@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="674c4143-84bb-4d5e-b8f6-c369a9c3a0b1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/config/DatabaseSeeder.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/config/DatabaseSeeder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/EmployeeManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/EmployeeManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/InventoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/InventoryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/ReportController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/ReportController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/RoleManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/RoleManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/UserManagementController.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/controller/UserManagementController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/CustomerReportDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/CustomerReportDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishCreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishCreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/DishUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/EmployeeCreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/EmployeeCreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/EmployeeUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/EmployeeUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/IngredientStockRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/IngredientStockRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/ProfitReportDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/ProfitReportDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/RegisterRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/RegisterRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/TableRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/TableRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/TableResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/TableResponse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/UserCreateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/UserCreateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/UserUpdateRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/dto/UserUpdateRequest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Category.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Category.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/DiningTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/DiningTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Dish.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Dish.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Ingredient.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/Ingredient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/InventoryTransaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/entity/InventoryTransaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/repository/IngredientRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/repository/IngredientRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/AuthServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/AuthServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/CustomerOrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/CustomerOrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/DiningTableServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/DiningTableServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/DishManagementServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/DishManagementServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/InventoryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/InventoryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/InventoryServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/InventoryServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/ReportServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-backend/src/main/java/com/example/restaurant/service/ReportServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/CashierNavbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/CashierNavbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/CategoryManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/CategoryManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/ChefNavbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/ChefNavbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/CustomerManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/CustomerManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/EmployeeManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/EmployeeManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/InventoryManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/InventoryManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/KitchenManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/KitchenManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/ManagerNavbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/ManagerNavbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/MenuManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/MenuManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/PromotionManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/PromotionManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/ReportManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/ReportManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/ReservationManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/ReservationManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/RoleManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/RoleManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/SupplierManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/SupplierManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/TableManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/TableManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/UserManagement.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/UserManagement.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/components/WaiterNavbar.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/components/WaiterNavbar.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/AdminDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/AdminDashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ChefCookingQueuePage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ChefCookingQueuePage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerAnalyticsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerAnalyticsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerDashboard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerDashboard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerEmployeesPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerEmployeesPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerNotificationsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerNotificationsPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerReportsPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/restaurant-frontend/src/pages/ManagerReportsPage.jsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/h/Downloads/CoreBanking-main/Restaurant" value="3Go3WsSNXAJeVsxDbeZH3VvkqS2" />
+      <entry key="_C:/Users/h/Downloads/Restaurant" value="3GoCc0mISddrGwKE0Q9urDlHLxY" />
+    </persistenceIdMap>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/restaurant-backend">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/restaurant-backend">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Restaurant" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Restaurant" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Restaurant" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3Go3WsSNXAJeVsxDbeZH3VvkqS2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build restaurant-backend.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.RestaurantApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/h/Downloads/Restaurant",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.uml",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\h\Downloads\CoreBanking-main\Restaurant\restaurant-backend" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\h\Downloads\CoreBanking-main\Restaurant\restaurant-backend" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RestaurantApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="com.example.Restaurant.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.restaurant.RestaurantApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="674c4143-84bb-4d5e-b8f6-c369a9c3a0b1" name="Changes" comment="" />
+      <created>1784624131038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784624131038</updated>
+      <workItem from="1784624132340" duration="649000" />
+      <workItem from="1784624814225" duration="29000" />
+      <workItem from="1784624855278" duration="171000" />
+      <workItem from="1784625060035" duration="131000" />
+      <workItem from="1784628611649" duration="433000" />
+      <workItem from="1784629073764" duration="34366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
